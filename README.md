@@ -11,6 +11,10 @@ This is a simple, browser-based chat interface for interacting with your LM Stud
 - LaTeX Math Rendering and Markdown Rendering
 - Mobile-friendly design
 
+## Screenshots 📸
+![image](https://github.com/user-attachments/assets/dafbca86-3120-473c-a234-ab29a1297c3d)
+![image](https://github.com/user-attachments/assets/495cbcc3-8c04-44ca-bc7c-3dd3e06c9fe3)
+
 ## Setup Instructions
 
 ### For Desktop Users
