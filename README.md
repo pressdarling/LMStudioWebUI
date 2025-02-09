@@ -10,10 +10,22 @@ This is a simple, browser-based chat interface for interacting with your LM Stud
 - View token usage and response time for each message
 - LaTeX Math Rendering and Markdown Rendering
 - Mobile-friendly design
+- Super Cool new Purple theme **NEW**
+- Chats **NEW**
+- Vision Model Support **NEW**
+- Choose your model **NEW**
+- Delete Chats **NEW**
+
 
 ## Screenshots 📸
-![image](https://github.com/user-attachments/assets/dafbca86-3120-473c-a234-ab29a1297c3d)
-![image](https://github.com/user-attachments/assets/495cbcc3-8c04-44ca-bc7c-3dd3e06c9fe3)
+![image](https://github.com/user-attachments/assets/7944a30a-6e52-467b-bf27-309f8db0bfde)
+![image](https://github.com/user-attachments/assets/cecc2e50-1583-4ce6-a092-10adcb2359f3)
+![image](https://github.com/user-attachments/assets/717bb8c6-ff62-4574-95e4-146909302180)
+![image](https://github.com/user-attachments/assets/22275a46-f332-4ab9-b727-678a98aef7af)
+![image](https://github.com/user-attachments/assets/d7cba468-166b-4d74-a98a-37ca72093b83)
+
+
+
 
 ## Setup Instructions
 
