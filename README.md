@@ -8,6 +8,7 @@ This is a simple, browser-based chat interface for interacting with your LM Stud
 - Connect to any LM Studio server
 - Chat with your LM Studio model
 - View token usage and response time for each message
+- LaTeX Math Rendering and Markdown Rendering
 - Mobile-friendly design
 
 ## Setup Instructions
