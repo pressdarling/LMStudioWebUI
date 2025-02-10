@@ -95,3 +95,7 @@ This interface is designed for local use only. Do not expose your LM Studio serv
 ## Feedback and Contributions
 
 If you encounter any issues or have suggestions for improvements, please open an issue in this repository. Contributions via pull requests are welcome!
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YorkieDev/LMStudioWebUI&type=Date)](https://star-history.com/#YorkieDev/LMStudioWebUI&Date)
