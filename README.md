@@ -95,7 +95,7 @@ This interface is designed for local use only. Do not expose your LM Studio serv
 
 ## Feedback and Contributions
 
-If you encounter any issues or have suggestions for improvements, please open an issue in this repository. Contributions via pull requests are welcome!
+This is a personal project. While the code is public for anyone to use and learn from, I am **not accepting pull requests** for new features or bug fixes. If you find an issue or have a suggestion, please open an issue to discuss it.
 
 ## Star History
 
