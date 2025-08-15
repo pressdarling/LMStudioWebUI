@@ -3,6 +3,7 @@
 # LM Studio Chat WebUI(unofficial)
 
 This is a simple, browser-based chat interface for interacting with your LM Studio server. It allows you to connect to your locally hosted LM Studio model and chat with it from any device with a web browser, including mobile phones.
+This is a personal project - no pull requests are accepted at this time. 
 
 ## Features
 
@@ -37,19 +38,19 @@ This is a simple, browser-based chat interface for interacting with your LM Stud
 
 ### For Mobile Users
 This works out of the box on Android devices. For iOS you need to open the file in Microsoft Edge or another browser. Safari/Chrome do not work. 
-There are several ways to get the `lmstudiowebui.html` file on your mobile device:
+There are several ways to get the `index.html` file on your mobile device:
 
 1. **Direct Download**: 
    - Open this repository on your mobile device's web browser.
-   - Find the `lmstudiowebui.html` file and download it directly to your device.
+   - Find the `index.html` file and download it directly to your device.
 
 2. **Email to Yourself**:
-   - Download the `lmstudiowebui.html` file on your computer.
+   - Download the `index.html` file on your computer.
    - Email it to yourself as an attachment.
    - Open the email on your mobile device and download the attachment.
 
 3. **Cloud Storage**:
-   - Upload the `lmstudiowebui.html` file to a cloud storage service like Google Drive, Dropbox, or iCloud.
+   - Upload the `index.html` file to a cloud storage service like Google Drive, Dropbox, or iCloud.
    - Access the file from your mobile device using the respective cloud storage app.
 
 4. **File Transfer Apps**:
@@ -64,8 +65,8 @@ There are several ways to get the `lmstudiowebui.html` file on your mobile devic
    - Click "Start Server" and note down the server address.
 
 2. **Open the Chat Interface**:
-   - On desktop: Double-click the `lmstudiowebui.html` file to open it in your default web browser.
-   - On mobile: Use a file manager app to locate the downloaded `lmstudiowebui.html` file and open it with your web browser.
+   - On desktop: Double-click the `index.html` file to open it in your default web browser.
+   - On mobile: Use a file manager app to locate the downloaded `index.html` file and open it with your web browser.
 
 3. **Connect to LM Studio Server**:
    - In the chat interface, enter the LM Studio server address in the input field at the top. 
@@ -87,7 +88,7 @@ There are several ways to get the `lmstudiowebui.html` file on your mobile devic
   - LM Studio processing speed depends on your computer's capabilities. Larger models may take longer to respond.
 
 - **Interface not loading**: 
-  - Try opening the `lmstudiowebui.html` file with a different web browser.
+  - Try opening the `index.html` file with a different web browser.
 
 ## Security Note
 
@@ -96,6 +97,7 @@ This interface is designed for local use only. Do not expose your LM Studio serv
 ## Feedback and Contributions
 
 This is a personal project. While the code is public for anyone to use and learn from, I am **not accepting pull requests** for new features or bug fixes. If you find an issue or have a suggestion, please open an issue to discuss it.
+Pull Requests are automatically closed and not welcome. 
 
 ## Star History
 
