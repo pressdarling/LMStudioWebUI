@@ -33,7 +33,7 @@ This is a personal project - no pull requests are accepted at this time.
 
 ### For Desktop Users
 
-1. Download the `lmstudiowebui.html` file from this repository.
+1. Download the `index.html` file from this repository.
 2. Save it to a location on your computer that you can easily access.
 
 ### For Mobile Users
