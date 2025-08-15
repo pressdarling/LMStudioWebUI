@@ -12,11 +12,11 @@ This is a personal project - no pull requests are accepted at this time.
 - Chat with your LM Studio model
 - LaTeX Math Rendering and Markdown Rendering
 - Mobile-friendly design
-- Super Cool new Purple theme **NEW**
-- Chats **NEW**
-- Vision Model Support **NEW**
-- Choose your model **NEW**
-- Delete Chats **NEW**
+- Super Cool new Purple theme
+- Chats
+- Vision Model Support 
+- Choose your model 
+- Delete Chats 
 
 
 ## Screenshots 📸
